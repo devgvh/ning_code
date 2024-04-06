@@ -5,6 +5,7 @@ import math
 import time
 
 # by ning，基于网上样例代码修改，欢迎免费使用
+# 代码讲解见本人公众号：https://mp.weixin.qq.com/s/a23uVhSzDqQyHWt2QHznEg
 # 增加对gpu的支持
 # 把仅支持加法，改为支持加减乘除，除法忽略小数
 # 为快速执行，每句话不超过10个词，只执行两位数加法，词表只有+号和10个数字
